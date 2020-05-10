@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "608170",
+      "name": "引号",
+      "font_class": "baojiaquotation",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "608172",
+      "name": "引号",
+      "font_class": "baojiaquotation2",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8777649",
+      "name": "social_sina",
+      "font_class": "icon-test",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "8777654",
+      "name": "social_github",
+      "font_class": "icon-test1",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "8777657",
+      "name": "social_wechat",
+      "font_class": "icon-test2",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    }
+  ]
+}
